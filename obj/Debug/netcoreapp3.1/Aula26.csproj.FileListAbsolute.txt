@@ -1,0 +1,13 @@
+C:\Users\cristina dias\Desktop\Aula26\bin\Debug\netcoreapp3.1\Aula26.exe
+C:\Users\cristina dias\Desktop\Aula26\bin\Debug\netcoreapp3.1\Aula26.deps.json
+C:\Users\cristina dias\Desktop\Aula26\bin\Debug\netcoreapp3.1\Aula26.runtimeconfig.json
+C:\Users\cristina dias\Desktop\Aula26\bin\Debug\netcoreapp3.1\Aula26.runtimeconfig.dev.json
+C:\Users\cristina dias\Desktop\Aula26\bin\Debug\netcoreapp3.1\Aula26.dll
+C:\Users\cristina dias\Desktop\Aula26\bin\Debug\netcoreapp3.1\Aula26.pdb
+C:\Users\cristina dias\Desktop\Aula26\obj\Debug\netcoreapp3.1\Aula26.csprojAssemblyReference.cache
+C:\Users\cristina dias\Desktop\Aula26\obj\Debug\netcoreapp3.1\Aula26.csproj.CoreCompileInputs.cache
+C:\Users\cristina dias\Desktop\Aula26\obj\Debug\netcoreapp3.1\Aula26.AssemblyInfoInputs.cache
+C:\Users\cristina dias\Desktop\Aula26\obj\Debug\netcoreapp3.1\Aula26.AssemblyInfo.cs
+C:\Users\cristina dias\Desktop\Aula26\obj\Debug\netcoreapp3.1\Aula26.dll
+C:\Users\cristina dias\Desktop\Aula26\obj\Debug\netcoreapp3.1\Aula26.pdb
+C:\Users\cristina dias\Desktop\Aula26\obj\Debug\netcoreapp3.1\Aula26.genruntimeconfig.cache
